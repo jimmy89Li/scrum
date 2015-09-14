@@ -1,0 +1,27 @@
+html,body{
+	margin:0;
+	padding:0
+}
+body{
+	height: 1000px;
+}
+.menubar{
+	height:50px;
+	background-color: white;
+	border-bottom: 2px solid black;
+	position: fixed;
+	width: 100%;
+	top: 0;
+}
+nav{
+	padding-top:15px;
+	text-align: center;
+}
+nav a{
+	padding:0 15px;
+	text-decoration: none;
+	border-right: 1px solid #000;
+}
+nav a.last{
+	border: none;
+}
