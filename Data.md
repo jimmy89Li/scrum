@@ -50,4 +50,14 @@ Watch an example Sprint Planning Meeting.
 
 # How
 
- 
+Basically scrums is just like 2 box with in the one the Product Backlog (TODO list) and in the other the Sprint Backlog (things that are going to be done in this sprint).
+
+The Product Backlog is essentially a list of all currently known User Stories and Features for a project, prioritized according to business value. Throughout product development, User Stories and Features are added and removed from this list, which is typically maintained by the Product Owner.
+
+The items on the Product Backlog are often estimated by the development team(s) in Story Points or Ideal Time, which is a size estimate, relative to the other items on the list. As User Stories and Features get closer to development, they are typically refined and broken down into smaller User Stories or tasks.
+
+A Sprint is a time-boxed development cycle, which typically lasts anywhere from 2-4 weeks. During Sprint Planning, the development team, together with the Product Owner, selects a few of the size-estimated User Stories and Features, which are to be implemented in the upcoming Sprint. The subset of User Stories and Features they select for implementation is the Sprint Backlog.
+
+At the end of the Sprint, all the User Stories and Features from the current Sprint Backlog should be completed. The development team and the Product Owner now completes another Sprint Planning session, where they define a new Sprint Backlog for the next Sprint, and so on.
+
+They repeat this process until all the User Stories and Features in the Product Backlog have been completed, or until the Product Owner decides that the product is "done" (typically when they have reached the desired level of functionality or when the time is up).
